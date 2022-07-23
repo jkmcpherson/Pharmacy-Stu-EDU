@@ -1,5 +1,5 @@
 --- 
-title: "Pharmacy Stu EDU"
+title: "Pharmacy-Stu-EDU"
 author: "Jacob McPherson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
